@@ -1,0 +1,12 @@
+ipywidgets
+notebook
+ensure
+py-youtube
+
+
+# dev requirements
+pytest
+tox # For testing the app independent of the OS
+black # For formatting
+flake8 # For linting (It will find out if there is any error)
+mypy # For type check
